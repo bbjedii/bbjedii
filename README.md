@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bbjedii
+- 👀 I’m interested in front-end developing
+- 🌱 I’m currently learning on the odin project
+- 💞️ I’m looking to collaborate on future projects
+- 📫 How to reach me wldflwrs93@gmail.com
